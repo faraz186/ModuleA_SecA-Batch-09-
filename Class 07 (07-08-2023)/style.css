@@ -1,0 +1,59 @@
+/* * {
+  color: red;
+} */
+.paraOne {
+  font-weight: lighter;
+}
+/* h1 {
+  color: blue;
+}
+
+h2 {
+  color: orange;
+} */
+
+/* h3 {
+  color: deeppink;
+} */
+
+/* p {
+  color: blue;
+}  */
+
+/* li > a {
+  background-color: blue;
+} */
+
+/* h1 ~ p {
+  color: green;
+} */
+
+/* .particular {
+} */
+
+/* p > span { */
+/* font-weight: 700;
+  font-style: oblique;
+  text-transform: capitalize;
+} */
+
+/* a {
+  color: green;
+  text-decoration: line-through;
+} */
+
+/* .para { */
+/* line-height: 2em; */
+/* letter-spacing: 0.4em; */
+/* word-spacing: 22px; */
+/* text-align: center; */
+/* } */
+
+/* .a {
+  vertical-align: text-top;
+  text-indent: -9999px;
+} */
+
+/* .heading {
+  text-shadow: 15px 15px 10px blue;
+} */

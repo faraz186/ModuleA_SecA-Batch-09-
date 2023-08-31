@@ -1,0 +1,39 @@
+#container {
+  background-color: aqua;
+  display: flex;
+  height: 80vh;
+  /* justify-content: space-evenly; */
+  gap: 100px;
+}
+.divone {
+  background-color: red;
+  /* width: 300px; */
+  flex: 1;
+  height: 250px;
+  color: white;
+  font-size: 5em;
+  align-self: flex-end;
+  order: 3;
+  text-align: center;
+}
+.divtwo {
+  background-color: blue;
+  /* width: 300px; */
+  flex: 2;
+  height: 250px;
+  color: white;
+  align-self: center;
+  font-size: 5em;
+  order: 1;
+  text-align: center;
+}
+.divthree {
+  background-color: orange;
+  /* width: 300px; */
+  flex: 3;
+  order: 2;
+  height: 250px;
+  color: white;
+  font-size: 5em;
+  text-align: center;
+}

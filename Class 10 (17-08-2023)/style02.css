@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+}
+
+p {
+  color: blue;
+  background-color: antiquewhite;
+  margin: 20px;
+  padding: 10px;
+}
+
+img {
+  width: 1000px;
+  margin-left: 20%;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+  h1 {
+    background-color: azure;
+    color: black;
+    border-radius: 6px;
+  }
+  img {
+    width: 300px;
+  }
+}

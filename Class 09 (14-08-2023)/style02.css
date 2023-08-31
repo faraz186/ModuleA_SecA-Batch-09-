@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
+.black {
+  background-color: red;
+  color: white;
+  width: 500px;
+  float: left;
+}
+
+.white {
+  background-color: blue;
+  color: white;
+  width: 200px;
+  float: left;
+}
+
+p {
+  clear: both;
+}
+
+/* img {
+  position: fixed;
+} */
+
+.paraOne {
+  color: red;
+}

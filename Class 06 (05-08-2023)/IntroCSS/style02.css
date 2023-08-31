@@ -1,0 +1,12 @@
+#box {
+  color: blue;
+  /* background-color: aquamarine; */
+  /* background-color: #de8106; */
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#box p {
+  /* color: rgb(222, 129, 6); */
+  /* color: hsl(34, 97%, 95%); */
+  font-size: 30px;
+}

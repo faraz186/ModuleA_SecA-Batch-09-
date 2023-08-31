@@ -1,0 +1,113 @@
+/* .para:first-line {
+  font-size: 30px;
+} */
+
+/* a:link {
+  color: red;
+}
+
+a:visited {
+  color: blue;
+} */
+
+/* input:hover {
+  background-color: aqua;
+}
+
+input:focus {
+  background-color: red;
+}
+
+button:active {
+  background-color: orange;
+} */
+
+/* p[class] {
+  color: yellowgreen;
+  font-family: monospace;
+}
+
+h1[class] {
+  color: red;
+  font-family: monospace;
+} */
+
+/* p[class~="paraone"] {
+  background-color: aquamarine;
+} */
+
+/* .main {
+  font-size: 25px;
+  border: 2px solid red;
+  width: 50%;
+  min-width: 200px;
+  max-width: 900px;
+} */
+/* 
+img {
+  width: 100%;
+} */
+
+/* .main {
+  font-size: 25px;
+  border: 2px solid red;
+  width: 50%;
+  min-height: 200px;
+  max-height: 500px;
+  overflow: scroll;
+} */
+
+/* .main {
+  border: 10px solid orange;
+  margin: 100px;
+}
+
+.main > p {
+  border: 10px solid blue;
+  margin: 50px;
+  padding: 20px;
+} */
+
+/* p {
+  border: 10px double red;
+  border-style: ;
+  width: 50%;
+  margin: auto;
+}
+
+.paratwo {
+  border-color: green;
+  border-top-color: red;
+  border-bottom-color: blue;
+} */
+
+/* h1 {
+  background-color: cornflowerblue;
+}
+
+p {
+  background-color: red;
+}
+
+a {
+  background-color: green;
+} */
+
+li {
+  background-color: orange;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  /* border-radius: 20%; */
+  border-top-left-radius: 10px;
+  box-shadow: 10px 10px 15px orange;
+}
+
+/* ul {
+  border: 5px solid red;
+  height: 300px;
+} */
+
+.list2 {
+  visibility: visible;
+}
