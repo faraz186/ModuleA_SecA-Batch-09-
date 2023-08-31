@@ -1,0 +1,26 @@
+GIT (Distributive version control system)
+
+1) open browser and download git.
+2) Install Git 
+3) make folder and open git bash
+4) create new file using command
+	touch <file name with extension>
+5) create new folder using command
+	mkdir <folder name>
+6) if you move forward using command
+	cd <folder name>
+7) if you move backward using command
+	cd ..
+8) first you initliaze the folder to the git respositoy using command
+	git init
+9) then config your git using two commands
+	first: git config --global user.name "<your name>"
+       Second: git config -- global user.email "<your email address>"
+
+10) then using command "git status" to check the changes in the git local folder
+11) if you seen untracked files using command "git add -A" to track all files and folders in the git Eye View.
+12) Then, using command " git commit -m <suitable message> " to permenant save the code to local git repo.
+13) then again using command "git status" check the working tree clean or not".
+14) Then, Open browser and search <github.com>, then first you sign up and then login.
+15) Once you login and come to github dashboard make repository to the remote codebase and given the push and add
+given to the git bash terminal and execute it.. 
