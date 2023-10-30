@@ -65,7 +65,7 @@ setInterval(function(){
         sec = 59;
         nextQuestion()
     }
-},100)
+},1000)
 
 
 function nextQuestion(){
