@@ -29,38 +29,38 @@ console.log(errorMessage)
   });
 }
 
-// var obj = {
-//     name:"haseeb",
-//     age:20,
-//     city:"karachi"
-// }
+var obj = {
+    name:"haseeb",
+    age:20,
+    city:"karachi"
+}
 
-// var str = JSON.stringify(obj);
+var str = JSON.stringify(obj);
 
-// console.log(str)
+console.log(str)
 
-// var returnObj = JSON.parse(str);
+var returnObj = JSON.parse(str);
 
-// console.log(returnObj)
+console.log(returnObj)
 
-// function getName(){
-//     var input = document.getElementById("name");
+function getName(){
+    var input = document.getElementById("name");
 
-//     var getStorageValue = localStorage.getItem("name");
+    var getStorageValue = localStorage.getItem("name");
 
-//     var OriginalValue = JSON.parse(getStorageValue);
+    var OriginalValue = JSON.parse(getStorageValue);
 
-//     console.log(OriginalValue);
+    console.log(OriginalValue);
 
-//     if(!OriginalValue){
-//         OriginalValue = []
-//     }
+    if(!OriginalValue){
+        OriginalValue = []
+    }
 
-//     var UserObj = {
-//         name:input.value
-//     }
+    var UserObj = {
+        name:input.value
+    }
 
-//     OriginalValue.push(UserObj)
+    OriginalValue.push(UserObj)
     
-//     localStorage.setItem("name",JSON.stringify(OriginalValue));
-// }
+    localStorage.setItem("name",JSON.stringify(OriginalValue));
+}
