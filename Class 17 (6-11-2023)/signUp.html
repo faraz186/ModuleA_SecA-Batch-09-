@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-auth.js"></script>
+
+</head>
+<body>
+    <h1>Sign Up Form</h1>
+
+    <input type="text" id="email" placeholder="Enter Email">
+
+    <br>
+    <br>
+
+    <input type="password" id="password" placeholder="Enter Password">
+
+    <br>
+    <br>
+
+    <button onclick="signUp()">Sign up</button>
+
+    <button onclick="loginWithGoogle()">Login With Google</button>
+
+    <button onclick="loginWithGithub()">Login With Github</button>
+
+    
+    <a href="login.html">Already have an account! Sign in..</a>
+
+
+    <script src="app.js"></script>
+</body>
+</html>
