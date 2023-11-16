@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+      * {
+        margin: 100px;
+        background-color: black;
+      }
+      .loader {
+        width: 84px;
+        height: 84px;
+        position: relative;
+      }
+      .loader:before,
+      .loader:after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 84px;
+        height: 84px;
+        border-radius: 50%;
+        background: #ff3d00;
+        animation: push 1s infinite linear alternate;
+      }
+      .loader:after {
+        top: auto;
+        bottom: 0;
+        left: 0;
+        background: #fff;
+        animation-direction: alternate-reverse;
+      }
+      @keyframes push {
+        0% {
+          width: 14px;
+          height: 14px;
+        }
+        100% {
+          width: 84px;
+          height: 84px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <span class="loader"></span>
+
+    <h1
+      class="text-6xl ps-12 m-12 pe-24 w-2/4 bg-green-300 text-center border-4 border-red-500"
+    >
+      Hello World
+    </h1>
+  </body>
+</html>
