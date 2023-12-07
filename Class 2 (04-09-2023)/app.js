@@ -56,16 +56,18 @@ var res = num - 1;
 
 console.log(num);
 
-// var calc = (10 + 12) * (8 / 4);
+var calc = (10 + 12) * (8 / 4);
 
-// console.log(calc);
+console.log(calc);
 
-// var a = 5;
-// var b = 2;
+var a = 5;
+var b = 2;
 
-// var res = a++ + b++ - ++a - --b + ++a - b++ - --a;
-5 + 2 - 7 - 2 + 8 - 2 - 7;
-// console.log(res);
+var res = a++ + b++ - ++a - --b + ++a - b++ - --a;
+
+// 5 + 2 - 7 - 2 + 8 - 2 - 7;
+
+console.log(res);
 
 // -1, -2 , -3, -4,
 
