@@ -1,5 +1,5 @@
 alert("Welcome to JS");
-
+   
 Swal.fire("Good job!", "You clicked the button!", "success");
 
 var number = 10;
