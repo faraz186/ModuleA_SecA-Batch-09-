@@ -6,9 +6,9 @@ var number = 10;
 
 var number = 12;
 
-// console.log(typeof number);
+console.log(typeof number);
 
-// alert(number);
+alert(number);
 
 // var firstPerson = "xyz";
 
