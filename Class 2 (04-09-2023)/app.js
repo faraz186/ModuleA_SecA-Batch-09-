@@ -30,19 +30,19 @@ console.log(a);
 
 var firstName = "abc";
 
-// var num1 = 24;
+var num1 = 24;
 
-// var num2 = 11;
+var num2 = 11;
 
-// var res = num1 + num2;
+var res = num1 + num2;
 
-// console.log(num1 / num2);
+console.log(num1 / num2);
 
-// var num = 12;
+var num = 12;
 
-// var res = --num;
+var res = --num;
 
-// console.log(res);
+console.log(res);
 
 // console.log(num);
 
