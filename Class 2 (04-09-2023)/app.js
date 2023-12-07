@@ -89,17 +89,4 @@ var num1 = "2";
 
 var num2 = 4;
 
-// console.log(num1 - num2);
-
-
-// chapter no 1
-
-// Q1
-
-
-
-// Q2
-
-
-
-// chaptetr 1 ends here
+console.log(num1 - num2);
