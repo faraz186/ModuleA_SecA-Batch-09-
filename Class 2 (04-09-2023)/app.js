@@ -73,21 +73,21 @@ console.log(res);
 
 // var num = 10;
 
-// var res = ++num;
+var res = ++num;
 
-// console.log(res);
+console.log(res);
 
-// var firstName = "Muhammad";
+var firstName = "Muhammad";
 
-// var lastName = "ismail";
+var lastName = "ismail";
 
-// var fullName = firstName + " " + lastName;
+var fullName = firstName + " " + lastName;
 
-// console.log(fullName);
+console.log(fullName);
 
-// var num1 = "2";
+var num1 = "2";
 
-// var num2 = 4;
+var num2 = 4;
 
 // console.log(num1 - num2);
 
