@@ -14,11 +14,11 @@ var firstPerson = "xyz";
 
 firstPerson = "abc";
 
-// console.log(firstPerson);
+console.log(firstPerson);
 
-// var num = 12;
+var num = 12;
 
-// num = num + 20;
+num = num + 20;
 
 // 12 + 20
 
