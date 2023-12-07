@@ -1,10 +1,10 @@
-// alert("Welcome to JS");
+alert("Welcome to JS");
 
-// Swal.fire("Good job!", "You clicked the button!", "success");
+Swal.fire("Good job!", "You clicked the button!", "success");
 
-// var number = 10;
+var number = 10;
 
-// var number = 12;
+var number = 12;
 
 // console.log(typeof number);
 
