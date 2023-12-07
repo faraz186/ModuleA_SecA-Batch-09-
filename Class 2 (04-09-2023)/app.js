@@ -44,17 +44,17 @@ var res = --num;
 
 console.log(res);
 
-// console.log(num);
+console.log(num);
 
-// var num = 10;
+var num = 10;
 
-// num--;
+num--;
 
-// num = num - 1;
+num = num - 1;
 
-// var res = num - 1;
+var res = num - 1;
 
-// console.log(num);
+console.log(num);
 
 // var calc = (10 + 12) * (8 / 4);
 
