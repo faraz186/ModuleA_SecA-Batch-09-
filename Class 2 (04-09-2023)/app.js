@@ -10,9 +10,9 @@ console.log(typeof number);
 
 alert(number);
 
-// var firstPerson = "xyz";
+var firstPerson = "xyz";
 
-// firstPerson = "abc";
+firstPerson = "abc";
 
 // console.log(firstPerson);
 
