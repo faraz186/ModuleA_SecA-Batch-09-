@@ -22,13 +22,13 @@ num = num + 20;
 
 // 12 + 20
 
-// console.log(num);
+console.log(num);
 
-// var a = "faraz";
+var a = "faraz";
 
-// console.log(a);
+console.log(a);
 
-// var firstName = "abc";
+var firstName = "abc";
 
 // var num1 = 24;
 
