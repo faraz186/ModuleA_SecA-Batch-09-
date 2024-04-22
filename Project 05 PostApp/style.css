@@ -1,0 +1,25 @@
+.images-list >img{
+    width: 40px;
+    height: 40px;
+}
+
+.images-list{
+    justify-content: space-evenly;
+
+}
+
+.images-list-selected{
+    border: 4px solid #01c06a;
+}
+
+.card-body{
+    background-size: cover !important;
+    background-position:center !important;
+    background-repeat: no-repeat !important;
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;
+
+}
